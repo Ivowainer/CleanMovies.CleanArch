@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanMovie.Domain", "CleanMovie.Domain\CleanMovie.Domain.csproj", "{F76E5774-ED74-4212-B4D1-065FD9DAE8F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanMovie.Application", "CleanMovie.Application\CleanMovie.Application.csproj", "{C6168A06-D92F-491B-B8D5-2E35B26CA7EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanMovie.Infrastructure", "CleanMovie.Infrastructure\CleanMovie.Infrastructure.csproj", "{C3E0CB2E-0334-400B-AC8E-7A3AE9812CCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanMovie.API", "CleanMovie.API\CleanMovie.API.csproj", "{275A8F66-CD6A-47EA-939A-8E46213C0801}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F76E5774-ED74-4212-B4D1-065FD9DAE8F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F76E5774-ED74-4212-B4D1-065FD9DAE8F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F76E5774-ED74-4212-B4D1-065FD9DAE8F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F76E5774-ED74-4212-B4D1-065FD9DAE8F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6168A06-D92F-491B-B8D5-2E35B26CA7EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6168A06-D92F-491B-B8D5-2E35B26CA7EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6168A06-D92F-491B-B8D5-2E35B26CA7EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6168A06-D92F-491B-B8D5-2E35B26CA7EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3E0CB2E-0334-400B-AC8E-7A3AE9812CCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3E0CB2E-0334-400B-AC8E-7A3AE9812CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3E0CB2E-0334-400B-AC8E-7A3AE9812CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3E0CB2E-0334-400B-AC8E-7A3AE9812CCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{275A8F66-CD6A-47EA-939A-8E46213C0801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{275A8F66-CD6A-47EA-939A-8E46213C0801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{275A8F66-CD6A-47EA-939A-8E46213C0801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{275A8F66-CD6A-47EA-939A-8E46213C0801}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
