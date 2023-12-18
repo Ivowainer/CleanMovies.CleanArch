@@ -1,0 +1,16 @@
+C:\Users\ivanc\Documents\Github\CleanMovie\CleanMovie.Application\bin\Debug\net8.0\CleanMovie.Application.deps.json
+C:\Users\ivanc\Documents\Github\CleanMovie\CleanMovie.Application\bin\Debug\net8.0\CleanMovie.Application.dll
+C:\Users\ivanc\Documents\Github\CleanMovie\CleanMovie.Application\bin\Debug\net8.0\CleanMovie.Application.pdb
+C:\Users\ivanc\Documents\Github\CleanMovie\CleanMovie.Application\bin\Debug\net8.0\CleanMovie.Domain.dll
+C:\Users\ivanc\Documents\Github\CleanMovie\CleanMovie.Application\bin\Debug\net8.0\CleanMovie.Domain.pdb
+C:\Users\ivanc\Documents\Github\CleanMovie\CleanMovie.Application\obj\Debug\net8.0\CleanMovie.Application.csproj.AssemblyReference.cache
+C:\Users\ivanc\Documents\Github\CleanMovie\CleanMovie.Application\obj\Debug\net8.0\CleanMovie.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanc\Documents\Github\CleanMovie\CleanMovie.Application\obj\Debug\net8.0\CleanMovie.Application.AssemblyInfoInputs.cache
+C:\Users\ivanc\Documents\Github\CleanMovie\CleanMovie.Application\obj\Debug\net8.0\CleanMovie.Application.AssemblyInfo.cs
+C:\Users\ivanc\Documents\Github\CleanMovie\CleanMovie.Application\obj\Debug\net8.0\CleanMovie.Application.csproj.CoreCompileInputs.cache
+C:\Users\ivanc\Documents\Github\CleanMovie\CleanMovie.Application\obj\Debug\net8.0\CleanMovie.Application.sourcelink.json
+C:\Users\ivanc\Documents\Github\CleanMovie\CleanMovie.Application\obj\Debug\net8.0\CleanMovie.Application.csproj.CopyComplete
+C:\Users\ivanc\Documents\Github\CleanMovie\CleanMovie.Application\obj\Debug\net8.0\CleanMovie.Application.dll
+C:\Users\ivanc\Documents\Github\CleanMovie\CleanMovie.Application\obj\Debug\net8.0\refint\CleanMovie.Application.dll
+C:\Users\ivanc\Documents\Github\CleanMovie\CleanMovie.Application\obj\Debug\net8.0\CleanMovie.Application.pdb
+C:\Users\ivanc\Documents\Github\CleanMovie\CleanMovie.Application\obj\Debug\net8.0\ref\CleanMovie.Application.dll

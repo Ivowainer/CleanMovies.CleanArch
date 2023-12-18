@@ -111,6 +111,19 @@
         "runtime": {
           "bin/placeholder/CleanMovie.Domain.dll": {}
         }
+      },
+      "CleanMovie.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "CleanMovie.Application": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CleanMovie.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanMovie.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -453,11 +466,17 @@
       "type": "project",
       "path": "../CleanMovie.Domain/CleanMovie.Domain.csproj",
       "msbuildProject": "../CleanMovie.Domain/CleanMovie.Domain.csproj"
+    },
+    "CleanMovie.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../CleanMovie.Infrastructure/CleanMovie.Infrastructure.csproj",
+      "msbuildProject": "../CleanMovie.Infrastructure/CleanMovie.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "CleanMovie.Application >= 1.0.0",
+      "CleanMovie.Infrastructure >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
   },
@@ -490,6 +509,9 @@
           "projectReferences": {
             "C:\\Users\\ivanc\\Documents\\Github\\CleanMovie\\CleanMovie.Application\\CleanMovie.Application.csproj": {
               "projectPath": "C:\\Users\\ivanc\\Documents\\Github\\CleanMovie\\CleanMovie.Application\\CleanMovie.Application.csproj"
+            },
+            "C:\\Users\\ivanc\\Documents\\Github\\CleanMovie\\CleanMovie.Infrastructure\\CleanMovie.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\ivanc\\Documents\\Github\\CleanMovie\\CleanMovie.Infrastructure\\CleanMovie.Infrastructure.csproj"
             }
           }
         }
