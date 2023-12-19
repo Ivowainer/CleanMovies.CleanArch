@@ -12,7 +12,11 @@ public class MovieService : IMovieService
     }
     public List<Movie> GetAllMovies()
     {
-        var movies = _movieRepository.GetAllMovies();
-        return movies;
+        return _movieRepository.GetAllMovies();
+    }
+
+    public Movie CreateMovie(Movie movie)
+    {
+        return _movieRepository.CreateMovie(movie);
     }
 }

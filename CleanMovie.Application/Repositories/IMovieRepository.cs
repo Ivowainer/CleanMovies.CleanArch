@@ -6,4 +6,5 @@ namespace CleanMovie.Application.Repositories;
 public interface IMovieRepository
 {
     List<Movie> GetAllMovies();
+    Movie CreateMovie(Movie movie);
 }

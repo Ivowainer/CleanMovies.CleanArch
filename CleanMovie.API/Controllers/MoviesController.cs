@@ -14,9 +14,15 @@ namespace CleanMovie.API.Controllers
         }
 
         [HttpGet]
-        public ActionResult<List<Movie>> Get()
+        public ActionResult<List<Movie>> GetMovies()
         {
             return Ok(_movieService.GetAllMovies());
+        }
+
+        [HttpPost]
+        public ActionResult<Movie> PostMovie(Movie movie)
+        {
+            return Ok(_movieService.CreateMovie(movie));
         }
     }
 }
