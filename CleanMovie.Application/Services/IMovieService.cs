@@ -1,4 +1,4 @@
-using CleanMovie.Domain;
+using CleanMovie.Domain.Entities;
 
 namespace CleanMovie.Application.Services;
 public interface IMovieService

@@ -1,5 +1,5 @@
 using CleanMovie.Application.Repositories;
-using CleanMovie.Domain;
+using CleanMovie.Domain.Entities;
 using CleanMovie.Infrastructure.Data;
 
 namespace CleanMovie.Infrastructure.Repositories

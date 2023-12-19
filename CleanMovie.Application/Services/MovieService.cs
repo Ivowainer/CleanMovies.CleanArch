@@ -1,4 +1,4 @@
-using CleanMovie.Domain;
+using CleanMovie.Domain.Entities;
 using CleanMovie.Application.Repositories;
 
 namespace CleanMovie.Application.Services;

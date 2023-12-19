@@ -1,5 +1,5 @@
 using CleanMovie.Application.Services;
-using CleanMovie.Domain;
+using CleanMovie.Domain.Entities;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CleanMovie.API.Controllers
