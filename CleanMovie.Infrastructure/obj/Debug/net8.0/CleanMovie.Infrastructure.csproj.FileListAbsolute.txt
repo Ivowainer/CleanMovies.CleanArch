@@ -16,3 +16,5 @@ C:\Users\ivanc\Documents\Github\CleanMovie\CleanMovie.Infrastructure\obj\Debug\n
 C:\Users\ivanc\Documents\Github\CleanMovie\CleanMovie.Infrastructure\obj\Debug\net8.0\refint\CleanMovie.Infrastructure.dll
 C:\Users\ivanc\Documents\Github\CleanMovie\CleanMovie.Infrastructure\obj\Debug\net8.0\CleanMovie.Infrastructure.pdb
 C:\Users\ivanc\Documents\Github\CleanMovie\CleanMovie.Infrastructure\obj\Debug\net8.0\ref\CleanMovie.Infrastructure.dll
+C:\Users\ivanc\Documents\Github\CleanMovie\CleanMovie.Infrastructure\bin\Debug\net8.0\CleanMovie.Infrastructure.runtimeconfig.json
+C:\Users\ivanc\Documents\Github\CleanMovie\CleanMovie.Infrastructure\obj\Debug\net8.0\CleanMovie.Infrastructure.genruntimeconfig.cache
